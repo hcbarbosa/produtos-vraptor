@@ -61,5 +61,7 @@
 			</tbody>
 	</table>
 	 <a href="<c:url value='/produto/formulario'></c:url>"><fmt:message key="mensagem.novoProduto"/></a>
+	 
+	 <c:import url="../comum/footer.jsp"/>
 </body>
 </html>
